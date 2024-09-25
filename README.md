@@ -1,5 +1,6 @@
 # List Grow
-List Grow is a website-based application that helps you record your playing or holiday trips
+List Grow is a website-based application that helps you record your playing or holiday trips <br/>
+Production: https://listgrow.netlify.app
 
 # Technology (Based TypeScript)
 ## Frontend
@@ -23,8 +24,8 @@ Currently, there are only 3 tables, namely token which functions to store refres
 ![Japahit-Page-3 drawio](https://github.com/user-attachments/assets/1c488968-beb6-4ee6-be7e-9aeb463a9e21)
 
 # How to start (Development)
-1 Setup database. You can use the manual method or use `docker-compose.yaml` on docker folder that containt db setup (PostgreSQL)
-2 Open each folder (Frontend and Backend) and replace the `.env` credentials with your own
+1) Setup database. You can use the manual method or use `docker-compose.yaml` on docker folder that containt db setup (PostgreSQL)
+2) Open each folder (Frontend and Backend) and replace the `.env` credentials with your own
 3) Write `npm run dev` on CLI. Frontend have port `5173` and Backend have port `4002`
 
 # How to start (Production)
